@@ -1,34 +1,15 @@
-# React-Express-Boilerplate 
-Boilerplate for a react+express app, tailored to my needs.
+# After Me
+Some people may call it online testament. I don't. 
 
+Whatever you write/upload on this app, will be kept private as long as you are alive. After you (hence the app is called AfterMe), those who have been granted a key by you can access your data. The app has procedures to prevent trusted people to access your data while you're still alive. 
 
-## Usage
+## Author - Contact
+Hossein Dehnokhalaji
 
-Step 1: clone the repository.
-
-
-```
-git clone https://github.com/iamhosseindhv/React-Express-boilerplate.git react-express-boilerplate
-cd react-express-boilerplate
-```
-
-Step 2: install dependencies in the root of the project and `app` directory.
-
-```
-cd app && npm install && cd ../ && npm install
-```
-
-Step 3: now that you have all the dependencies, start both the server and client at the same time (from the root of the project) by following command:
-
-
-```
-npm run dev
-```
-
-Your app is now running on port 3000.
-
-
-Open the app: `http://localhost:3000/`
+<a href="https://www.facebook.com/iamhosseindhv"><img src="https://github.com/iamhosseindhv/Rentaly/blob/master/Gifs/facebook.png" alt="Hossein Dehnokhalaji Linkedin profile" align="right" width="32" height="32"/></a>
+<a href="https://www.instagram.com/iamhosseindhv"><img src="https://github.com/iamhosseindhv/Rentaly/blob/master/Gifs/instagram.png" alt="Hossein Dehnokhalaji Linkedin profile" align="right" width="32" height="32"/></a>
+<a href="https://www.linkedin.com/in/iamhosseindhv"><img src="https://github.com/iamhosseindhv/Rentaly/blob/master/Gifs/linkedin.png" alt="Hossein Dehnokhalaji Linkedin profile" align="right" width="32" height="32"/></a>
+<a href="mailto:hossein.dehnavi98@yahoo.com"><img src="https://github.com/iamhosseindhv/Rentaly/blob/master/Gifs/contact.png" alt="Hossein Dehnokhalaji email address" align="right" width="32" height="32"/></a>
 
 
 ## License

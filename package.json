@@ -1,6 +1,6 @@
 {
-  "name": "react-express-boilerplate",
-  "description": "Boilerplate for an react+express app, tailored to my needs",
+  "name": "after-me",
+  "description": "Life after me",
   "version": "1.0.0",
   "author": {
     "name": "Hossein Dehnokhalaji",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamhosseindhv/React-Express-boilerplate.git"
+    "url": "https://github.com/iamhosseindhv/AfterMe.git"
   },
   "keywords": [
     "node",
