@@ -1,7 +1,7 @@
 # After Me 🌍 🕊 
 Some people may call it online testament. I don't. 
 
-Whatever you write/upload on this app, will be kept private as long as you are alive. After you (hence the app is called AfterMe), only those who have been granted a key by you can access your data. The app has procedures to prevent trusted people to access your data while you're still alive. 
+Whatever you write/upload on this app, will be kept private as long as you are alive. After you (hence the app is called AfterMe), only those who have been granted a key by you can access your data. The app has procedures to prevent trusted people accessing your data while you're still alive. 
 
 ## Author - Contact
 Hossein Dehnokhalaji
